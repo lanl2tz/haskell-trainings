@@ -12,7 +12,7 @@
 /haskell_*/slides/*.toc
 /haskell_*/slides/*.nav
 /haskell_*/slides/*.out
-/haskell_*/slides/*.pdf
+#/haskell_*/slides/*.pdf
 /haskell_*/slides/*.snm
 /haskell_*/slides/*.vrb
 /haskell_*/slides/auto/
